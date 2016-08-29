@@ -25,12 +25,14 @@ Tip: Lebih baik *menuntaskan* fitur dasar daripada fitur rumit tapi tidak tuntas
 Praktik
 -------
 
-1. Menulis proposal menggunakan `Visual Studio Code`_ dan `ReadTheDocs`_ dengan format `reStructuredText`_ (45 menit)
+1. Menulis proposal menggunakan `Visual Studio Code`_  dengan format `Markdown`_ (45 menit)
 
-   Mengapa menulis proposal menggunakan reStructuredText?
+   Mengapa menulis proposal menggunakan Markdown?
 
-   * Agar terbiasa dengan format text markup yang umum digunakan di proyek open source, utamanya Markdown dan reStructuredText
+   * Agar terbiasa dengan format text markup yang umum digunakan di proyek open source, utamanya `Markdown`_ dan `reStructuredText`_
    * Sebagai proyek percontohan untuk latihan Git dan GitHub
+   * Untuk mempersingkat waktu, proposal hanya ditulis menggunakan `Markdown`_ lalu diunggah ke `GitHub`_.
+     Bila waktu lebih panjang, dapat menggunakan `ReadTheDocs`_ dan `reStructuredText`_.
    * Dalam kenyataannya, proposal dapat ditulis menggunakan Google Docs
 
 2. Mengirim proposal tersebut ke komunitas organisasi yang dituju, menggunakan judul, abstrak, lalu hyperlink ke proposal di readthedocs (15 menit)
@@ -38,5 +40,6 @@ Praktik
    Catatan: belum mengetahui cara pakai Git 
 
 .. _Visual Studio Code: https://code.visualstudio.com
+.. _Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 .. _ReadTheDocs: http://readthedocs.io
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
