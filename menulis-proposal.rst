@@ -17,7 +17,7 @@ Susunan proposal umum:
 
 2. Benefits
 3. Detail
-4. Scratch goals
+4. Stretch goals
 5. Schedule
 
 Tip: Lebih baik *menuntaskan* fitur dasar daripada fitur rumit tapi tidak tuntas.
