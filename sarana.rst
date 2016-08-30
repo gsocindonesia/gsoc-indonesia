@@ -1,6 +1,15 @@
 Kebutuhan Sarana, Device, dan Software
 ==============================================
 
+Kursus ini diperuntukkan bagi siapa saja yang ingin meningkatkan kemampuan, reputasi #openscience, terutama untuk mendaftar ke Google Summer of Code.
+
+Peserta diharapkan memiliki kemampuan sebagai berikut:
+
+* Terbiasa mengoperasikan komputer terutama Windows
+* Terbiasa dengan aplikasi umum dan Office
+* Terbiasa dengan aplikasi Internet, web browser, social media
+* Dapat membaca dan menulis bahasa Inggris  
+
 Kursus online ini membutuhkan notebook atau PC dengan:
 
 * rekomendasi: Windows 10 64-bit, 4 GB RAM
